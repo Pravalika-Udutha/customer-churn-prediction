@@ -5,8 +5,8 @@ __pycache__/
 .DS_Store # macOS specific
 
 # Data files (optional - if large, better to ignore)
-# data/raw/
-# data/processed/
+data/raw/
+data/processed/
 
 # Secrets (if any - never commit credentials!)
 # .env
