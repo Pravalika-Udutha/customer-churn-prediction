@@ -33,6 +33,7 @@ churn_prediction_project/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+```
 
 
 ## Setup Instructions
