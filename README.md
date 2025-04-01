@@ -23,11 +23,12 @@ The dataset used is the **IBM Telco Customer Churn** dataset, obtained from Kagg
 The raw data file (`WA_Fn-UseC_-Telco-Customer-Churn.csv`) is stored in the `data/raw/` directory (and excluded from Git version control via `.gitignore`).
 
 ## Project Structure
+```plaintext
 churn_prediction_project/
 ├── data/
-│ └── raw/
-│ └── WA_Fn-UseC_-Telco-Customer-Churn.csv (ignored by git)
-├── venv/ # Virtual environment (ignored by git)
+│   └── raw/
+│       └── WA_Fn-UseC_-Telco-Customer-Churn.csv (ignored by git)
+├── venv/  # Virtual environment (ignored by git)
 ├── .git/
 ├── .gitignore
 ├── README.md
