@@ -20,7 +20,7 @@ To build a machine learning model that predicts customer churn for a telecom pro
 The dataset used is the **IBM Telco Customer Churn** dataset, obtained from Kaggle:
 [https://www.kaggle.com/datasets/blastchar/telco-customer-churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
-The raw data file (`WA_Fn-UseC_-Telco-Customer-Churn.csv`) is stored in the `data/raw/` directory (and excluded from Git version control via `.gitignore`).
+The raw data file (`WA_Fn-UseC_-Telco-Customer-Churn.csv`) is stored in the `data/raw/` directory .
 
 ## Project Structure
 ```plaintext
